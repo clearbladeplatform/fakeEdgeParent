@@ -1,0 +1,13 @@
+{
+    "description": "hey its testedge2's desc",
+    "last_seen_version": null,
+    "location": null,
+    "mac_address": null,
+    "name": "testedge2",
+    "policy_name": "Platform Wins",
+    "resolver_func": "ResolverFunctionIsUndefined",
+    "sync_edge_tables": null,
+    "system_key": "eaf9c0f60aa8e2c2819feec8cd66",
+    "system_secret": "EAF9C0F60ABA87EBD699D3B79A77",
+    "token": "Ta3X009O996c4846p53J5w02S2h835"
+}

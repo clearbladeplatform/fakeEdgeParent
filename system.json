@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "description": "",
+    "edge_sync": {},
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "fakeEdgeParent",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "eaf9c0f60aa8e2c2819feec8cd66",
+    "system_secret": "EAF9C0F60ABA87EBD699D3B79A77"
+}
